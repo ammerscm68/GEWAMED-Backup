@@ -6,4 +6,4 @@ Download "GEWAMED-Backup" for free. The program is constantly being developed. I
 find or have wishes regarding the program, contact me and I will try to implement it.
 An update function is included in the program.
 
-Visit my Website https://www.intermario.de/index.php/com-jckman-submenu-systemcheck-name/sonstiges/meine-software.html
+Visit my Website https://www.intermario.de/software
